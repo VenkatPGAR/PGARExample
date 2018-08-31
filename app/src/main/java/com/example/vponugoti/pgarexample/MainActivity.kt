@@ -16,6 +16,8 @@ class MainActivity : AppCompatActivity() {
         Log.e("ON Resume","method added")
 
         Log.e("B1 branch created","created local branch 1")
+
+        Log.e("LFRB2 branch ","created local branch copy from remote branch PgarExampleB1")
     }
 }
 
