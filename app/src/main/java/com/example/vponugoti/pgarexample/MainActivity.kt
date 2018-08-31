@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
         Log.e("ON Resume","method added")
+
+        Log.e("B1 branch created","created local branch 1")
     }
 }
 
