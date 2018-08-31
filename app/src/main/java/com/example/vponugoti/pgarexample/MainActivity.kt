@@ -18,6 +18,8 @@ class MainActivity : AppCompatActivity() {
         Log.e("B1 branch created","created local branch 1")
 
         Log.e("LFRB2 branch ","created local branch copy from remote branch PgarExampleB1")
+
+        Log.e("LFRB2 to PgarExample1","added 2")
     }
 }
 
